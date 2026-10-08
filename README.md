@@ -5,7 +5,7 @@ Interactive Bangladesh travel map: mark visited districts and download your map 
 
 An interactive Bangladesh travel toolkit in a single HTML file. Mark the districts you've visited and download your map as **PNG, JPG or PDF**, browse a 64-district guide, play a quiz, and sketch a trip with route and budget estimates.
 
-**Live demo:** https://apnar-username.github.io/amar-bangladesh-map/
+**Live demo:** https://parvejmollik.github.io/Bangladesh-Travel-Map/
 
 ## Features
 
